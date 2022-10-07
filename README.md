@@ -18,11 +18,11 @@ The apllication must:
 
 In order to setup and run the CoffeeShop application on your local machine, follow the following instructions
 
-Fork the repository from my [github page](https://github.com/Kimbohlovette/CoffeeShop.git). The repository will appear on your list of repositories.
+Fork the repository from my [github page](https://github.com/muhammedctgr/CoffeeShop-FullStack.git). The repository will appear on your list of repositories.
 
 Clone this repository into your local machine from your command prompt with following command
 
-`git clone https://github.com/Kimbohlovette/CoffeeShop.git`
+`git clone https://github.com/muhammedctgr/CoffeeShop-FullStack.git`
 
 Run `cd CoffeeShop` to navigate to the project directory
 
